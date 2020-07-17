@@ -1,0 +1,142 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "yaobai",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 120,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "rotation": []
+    },
+    "paths": {
+      "bg2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -45
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": -60.001
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.25,
+              "value": 60
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 60.001
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.875,
+              "value": -30
+            },
+            {
+              "frame": 2.033333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bg2/baicui": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                1,
+                -72
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                1,
+                -90
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                1,
+                -90.001
+              ]
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": [
+                1,
+                -125
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                1,
+                -90
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                1,
+                -90.001
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                1,
+                -125
+              ]
+            },
+            {
+              "frame": 1.875,
+              "value": [
+                1,
+                -100
+              ]
+            },
+            {
+              "frame": 2.0416666666666665,
+              "value": [
+                1,
+                -72
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                1,
+                -72.001
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "zzj_Bg_Play",
+      "params": []
+    }
+  ]
+}

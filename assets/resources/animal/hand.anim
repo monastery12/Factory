@@ -1,0 +1,124 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hand",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.3333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {
+      "bg1/bg2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 115
+            },
+            {
+              "frame": 1,
+              "value": 60
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 61
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 115
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                7,
+                -62.2
+              ]
+            }
+          ]
+        }
+      },
+      "bg1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -60
+            },
+            {
+              "frame": 1,
+              "value": -30
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -29
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": -60
+            }
+          ]
+        }
+      },
+      "bg1/juci": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -56.3,
+                -33.9
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -58,
+                -93
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -59,
+                -96
+              ]
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": [
+                -55,
+                -32
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 100
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 280
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 100
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

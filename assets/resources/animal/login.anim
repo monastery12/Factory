@@ -1,0 +1,464 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "login",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "bg": {
+        "props": {
+          "scale": []
+        }
+      },
+      "feixingqi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -233,
+                220
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -233,
+                230
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -233,
+                220
+              ]
+            },
+            {
+              "frame": 3,
+              "value": [
+                -233,
+                210
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -233,
+                220
+              ]
+            }
+          ]
+        }
+      },
+      "feixingqi/huoyan": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "chuanshudai/10": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 444
+            },
+            {
+              "frame": 8,
+              "value": -1033
+            },
+            {
+              "frame": 8.5,
+              "value": 444
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            },
+            {
+              "frame": 8.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "chuanshudai/11": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 620
+            },
+            {
+              "frame": 8,
+              "value": -850
+            },
+            {
+              "frame": 8.5,
+              "value": 620
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            },
+            {
+              "frame": 8.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "chuanshudai/14": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 821
+            },
+            {
+              "frame": 8,
+              "value": -662
+            },
+            {
+              "frame": 8.483333333333333,
+              "value": 821
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            },
+            {
+              "frame": 8.483333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "chuanshudai/20": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1004
+            },
+            {
+              "frame": 8,
+              "value": -476
+            },
+            {
+              "frame": 8.5,
+              "value": 1004
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            },
+            {
+              "frame": 8.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "gebei": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -35
+            },
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 4.5,
+              "value": 0.001
+            },
+            {
+              "frame": 5.5,
+              "value": -35
+            },
+            {
+              "frame": 6.5,
+              "value": 0
+            },
+            {
+              "frame": 8.5,
+              "value": 0.001
+            }
+          ]
+        }
+      },
+      "jx_jiazi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                291,
+                222
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                291,
+                332.4
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                450,
+                332.4
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                291,
+                222
+              ]
+            },
+            {
+              "frame": 5,
+              "value": [
+                291,
+                332.4
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                450,
+                332.4
+              ]
+            },
+            {
+              "frame": 8,
+              "value": [
+                291,
+                220
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            },
+            {
+              "frame": 4,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            },
+            {
+              "frame": 8,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bg/chilun1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 8.5,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "bg/chilun2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 8.5,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "xingfeng/icon_shenmixingfeng": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": -7
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 7
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 0.001
+            },
+            {
+              "frame": 2.1666666666666665,
+              "value": -7
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 7
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 0.001
+            },
+            {
+              "frame": 4.166666666666667,
+              "value": -7
+            },
+            {
+              "frame": 4.333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 4.5,
+              "value": 7
+            },
+            {
+              "frame": 4.666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 0.001
+            },
+            {
+              "frame": 6.166666666666667,
+              "value": -7
+            },
+            {
+              "frame": 6.333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 6.5,
+              "value": 7
+            },
+            {
+              "frame": 6.666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 8,
+              "value": 0.001
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

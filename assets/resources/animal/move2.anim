@@ -1,0 +1,102 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 23.333333333333332,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            190,
+            155
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 4,
+          "value": [
+            657,
+            155
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 6,
+          "value": [
+            657,
+            405
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 10,
+          "value": [
+            93,
+            405
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 12,
+          "value": [
+            93,
+            655
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 16,
+          "value": [
+            657,
+            665
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 18,
+          "value": [
+            657,
+            905
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 22,
+          "value": [
+            101,
+            905
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 22.666666666666668,
+          "value": [
+            101,
+            1000
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 23.333333333333332,
+          "value": [
+            101,
+            1100
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 23.333333333333332,
+      "func": "complateZhuangzai",
+      "params": []
+    }
+  ]
+}

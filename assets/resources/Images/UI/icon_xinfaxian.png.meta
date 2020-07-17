@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b5f9da70-bd24-4185-9ee3-600cc282b87a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_xinfaxian": {
+      "ver": "1.0.3",
+      "uuid": "c8a0f72d-df8e-45c6-b761-c8b73a7e68cc",
+      "rawTextureUuid": "b5f9da70-bd24-4185-9ee3-600cc282b87a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 206,
+      "height": 166,
+      "rawWidth": 206,
+      "rawHeight": 166,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

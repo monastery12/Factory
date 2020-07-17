@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "C1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.6,
+  "sample": 100,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "csd_01": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.6,
+              "value": 504
+            }
+          ]
+        }
+      },
+      "csd_02": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -504
+            },
+            {
+              "frame": 3.6,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

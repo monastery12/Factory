@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "scale",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "scale": []
+    },
+    "paths": {
+      "shoushi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                73,
+                9
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                73,
+                14
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                73,
+                9
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                73,
+                4
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                73,
+                9
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

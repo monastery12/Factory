@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d7ba20b3-715e-4c36-9f65-5949da66537f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "djssdw": {
+      "ver": "1.0.3",
+      "uuid": "6211ad94-8d52-44ae-9b83-3b034c3cad4e",
+      "rawTextureUuid": "d7ba20b3-715e-4c36-9f65-5949da66537f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 20,
+      "rawWidth": 220,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

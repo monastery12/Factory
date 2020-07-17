@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "71f99868-4ed8-49aa-948c-37b2e37654b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "icon_meiyuan": {
+      "ver": "1.0.3",
+      "uuid": "b3a6a3bc-a758-40ed-91b2-c03ef46a77e4",
+      "rawTextureUuid": "71f99868-4ed8-49aa-948c-37b2e37654b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 134,
+      "height": 103,
+      "rawWidth": 134,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

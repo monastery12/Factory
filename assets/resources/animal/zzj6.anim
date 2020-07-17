@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zzj6",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 120,
+  "speed": 2,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "bg": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -23
+            },
+            {
+              "frame": 0.5,
+              "value": -53
+            },
+            {
+              "frame": 1,
+              "value": -53.001
+            },
+            {
+              "frame": 1.5,
+              "value": -23
+            },
+            {
+              "frame": 2,
+              "value": -23.001
+            }
+          ]
+        }
+      },
+      "bg/texiao6/11": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bg/texiao6/22": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bg/texiao6/33": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bg/texiao6/44": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bg/texiao6/55": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bg/texiao6/66": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "zzj_Bg_Play",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zzj4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 120,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "bg1/bg2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -2.4,
+                -33.6
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -2.4,
+                -93.6
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": [
+                -27.4,
+                -93.6001
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -2.4,
+                -93.6001
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                23.4,
+                -93.6001
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -2.4,
+                -93.6001
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -2.4,
+                -33.6
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                -2.4,
+                -33.60001
+              ]
+            }
+          ]
+        }
+      },
+      "bg1/juci": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1.6,
+                -96.9
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -1.6,
+                -156.9
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": [
+                -31.6,
+                -156.9001
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -1.6,
+                -156.9
+              ]
+            },
+            {
+              "frame": 1.25,
+              "value": [
+                24.6,
+                -156.9
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                -1.6,
+                -156.9
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -1.6,
+                -96.9
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 60
+            },
+            {
+              "frame": 0.75,
+              "value": 240
+            },
+            {
+              "frame": 1,
+              "value": 420
+            },
+            {
+              "frame": 1.25,
+              "value": 600
+            },
+            {
+              "frame": 1.5,
+              "value": 660
+            },
+            {
+              "frame": 2,
+              "value": 720
+            }
+          ]
+        }
+      },
+      "bg1": {
+        "props": {
+          "position": []
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5833333333333334,
+      "func": "zzj_Bg4_Play",
+      "params": []
+    }
+  ]
+}

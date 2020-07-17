@@ -1,0 +1,305 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "feiqian",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "texiao1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                2.4,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                182,
+                1780
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "texiao2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -139,
+                8
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -180,
+                316
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -239,
+                659
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -239,
+                976
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -187,
+                1275
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -120,
+                1582
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                39,
+                1863
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "texiao3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                163,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                266,
+                322
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                437,
+                677
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                475,
+                975
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                462,
+                1280
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                446,
+                1591
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                300,
+                1847
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "texiao4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -264,
+                133
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -285,
+                400
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -349,
+                749
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -376,
+                1087
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -332,
+                1396
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -294,
+                1681
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                74,
+                1995
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "texiao5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                289,
+                161
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                371,
+                401
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                500,
+                771
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                544,
+                1129
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                544,
+                1429
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                544,
+                1703
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                243,
+                1994
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

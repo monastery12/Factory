@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guandao_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 624.1
+        },
+        {
+          "frame": 2,
+          "value": 640
+        },
+        {
+          "frame": 4,
+          "value": 623.4
+        }
+      ]
+    }
+  },
+  "events": []
+}
